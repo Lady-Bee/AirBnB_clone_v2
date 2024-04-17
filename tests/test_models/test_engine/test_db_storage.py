@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Tests module for the Database storage"""
+""" Tests module for the Database storage."""
 
 import unittest
 import pycodestyle

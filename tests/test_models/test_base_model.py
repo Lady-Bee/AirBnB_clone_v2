@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Module used to test  the base model """
+""" Module used to test  the base model. """
 
 import os
 import json

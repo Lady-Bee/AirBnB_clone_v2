@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module for the test of MySQL"""
+"""Module for the test of MySQL."""
 import MySQLdb
 import unittest
 from unittest.mock import patch
